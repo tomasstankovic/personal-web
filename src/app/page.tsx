@@ -30,7 +30,7 @@ export default function Home() {
 
         <hr className="mb-5 mt-5 md:mb-10 md:mt-10 border-2 md:border-4 border-black" />
         <p className={POSITION_STYLES}>
-          Co-founder & Software Engineer at{" "}
+          Co-founder of{" "}
           <a
             href="https://www.pretlak.sk/"
             className="underline decoration-2 hover:no-underline"
